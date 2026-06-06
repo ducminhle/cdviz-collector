@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.41.0](https://github.com/cdviz-dev/cdviz-collector/compare/0.40.0...0.41.0) - 2026-06-06
+
+### Added
+
+- *(skill)* add Claude Code / agent skill for cdviz-collector
+
+### Other
+
+- [**breaking**] remove transformers submodule and bundled VRL files
+
 ## [0.40.0](https://github.com/cdviz-dev/cdviz-collector/compare/0.39.1...0.40.0) - 2026-06-03
 
 ### Added
